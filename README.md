@@ -4,3 +4,4 @@ Fun tip for any of my classmates who did not already know it, but if you want to
 Down arrow also works to go back to a specific command.
 Here is my fifth commit! Halfway there.
 The command for locating where you are in a system is pwd
+This is a test to see if I actually understand what I am doing
