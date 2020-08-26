@@ -9,3 +9,4 @@ Another fun tip, to reduce error when using your filename, use tab!
 If your file is in the same directory as you are then it will fill in the rest of your file name up to the point where it doesn't match another filename so name your files somewhat uniquely at the begininng
 I.E. you can name your test files 1test, 2test, 3test, etc. And then use tab to fill in the rest!
 I just saw that I did an extra commit and am actually on commit 12 now
+Ok I think I have a decent understanding of what is happening now
