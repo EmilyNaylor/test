@@ -14,3 +14,4 @@ echo adds writing to the file (>> is put in this file or something of the effect
 cat reads what is in the file back to you, so good for checking what you said.
 git add, adds the changes you made to the file.
 git commit saves the changes. Then you can name the change you made?
+git push send the new information to your hub account. Cool!
