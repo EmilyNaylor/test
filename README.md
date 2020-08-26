@@ -12,3 +12,4 @@ I just saw that I did an extra commit and am actually on commit 12 now
 Ok I think I have a decent understanding of what is happening now
 echo adds writing to the file (>> is put in this file or something of the effect that it goes toward this file).
 cat reads what is in the file back to you, so good for checking what you said.
+git add, adds the changes you made to the file.
