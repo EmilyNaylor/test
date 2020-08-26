@@ -6,3 +6,4 @@ Here is my fifth commit! Halfway there.
 The command for locating where you are in a system is pwd
 This is a test to see if I actually understand what I am doing
 Another fun tip, to reduce error when using your filename, use tab!
+If your file is in the same directory as you are then it will fill in the rest of your file name up to the point where it doesn't match another filename so name your files somewhat uniquely at the begininng
